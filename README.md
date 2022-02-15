@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @FranMurguia
-- 👀 I’m interested in game development and data science
-- 🌱 I’m currently learning Azure Machine Learning for data science and Unity to make my own Indie Games
+Hi! I'm a Data scientist with solid knowledge in Python and Mathematics, learning and working with ML, IA, PBI, BI, etc.
 
 <!---
 FranMurguia/FranMurguia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
